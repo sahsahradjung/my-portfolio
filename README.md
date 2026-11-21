@@ -1,10 +1,11 @@
 # my-portfolio
 
-my personal website with html and tailwind
+my personal website
 - a bit about me and what i like
-- styled it
+- just messing around with the styling stuff to get used to it
 - added buttons and stuff
 - Just tried out different text sizes
+
 
 what I used
 -https://tailwindcss.com/docs
@@ -13,3 +14,7 @@ what I used
 ![alt text](image.png)
 
 image of site
+
+how it was made:
+-it was made with html and tailwind
+-i used documentation to help me with some of the stuff
